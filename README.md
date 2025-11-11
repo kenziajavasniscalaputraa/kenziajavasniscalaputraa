@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi there 👋, I'm Bagas Dwi Permana</h1>
+  <h1 align="center">Hi there 👋, I'm Kenzia Javas Niscala Putra</h1>
   <h3 align="center">A Passionate Web Developer & UI/UX Enthusiast from Indonesia 🇮🇩</h3>
 
   <p align="center">
