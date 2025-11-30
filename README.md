@@ -34,7 +34,7 @@ I'm a student and a self-driven developer with a strong passion for building bea
 - 🌱 I’m currently diving deep into *React, Node.js, and Backend Development*.
 - 👯 I’m looking to collaborate on *innovative web projects* and open-source contributions.
 - 💬 Ask me about *Java, C#, Python, or UI/UX design principles*.
-- 📫 How to reach me: *bagastelkomschool@gmail.com* or connect with me on LinkedIn!
+- 📫 How to reach me: *javaskomschool@gmail.com* or connect with me on LinkedIn!
 - ⚡ Fun fact: I believe the best code is written while listening to *lo-fi beats and the sound of rain* ☔.
 
 ---
@@ -161,6 +161,6 @@ Here are some of the projects I'm proud of.
   </p>
   
   <p>
-    <b>Made with ❤ by Bagas Dwi Permana</b>
+    <b>Made with ❤ by Kenzia Javas Niscala Putra</b>
   </p>
 </div>
